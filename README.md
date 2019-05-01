@@ -1,2 +1,2 @@
 # MITB_TextAnalytics
-NLP - Sentiment Analysis
+NLP; sentiment analysis performed on SGNews data provided by SMU MITB Text Analytics programme.
